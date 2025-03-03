@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "year": 1998,
+      "title": "Blade",
+      "info": {
+        "rating": 7,
+        "plot": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+        "actors": ["Wesley Snipes", "Stephen Dorff", "Kris Kristofferson"]
+      }
+    },
+    {
+      "year": 2004,
+      "title": "The Punisher",
+      "info": {
+        "rating": 7.8,
+        "plot": "After his wife and family are killed by criminals, FBI agent Frank Castle becomes a vigilante known as \"The Punisher,\" who aims to fight crime by any means necessary.",
+        "actors": ["Jonathan Hensleigh", "John Travolta", "Will Patton"]
+      }
+    },
+    {
+      "year": 2003,
+      "title": "Daredevil",
+      "info": {
+        "rating": 5.3,
+        "plot": "A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.",
+        "actors": ["Ben Affleck", "Jennifer Garner", "Colin Farrell"]
+      }
+    },
+    {
+      "year": 2007,
+      "title": "Ghost Rider",
+      "info": {
+        "rating": 5.1,
+        "plot": "Stunt motorcyclist Johnny Blaze gives up his soul to become a hellblazing vigilante, to fight against power hungry Blackheart, the son of the devil himself.",
+        "actors": ["Nicolas Cage", "Eva Mendes", "Sam Elliott"]
+      }
+    },
+    {
+      "year": 2005,
+      "title": "Elektra",
+      "info": {
+        "rating": 4.7,
+        "plot": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
+        "actors": ["Jennifer Garner", "Goran Visnjic", "Will Yun Lee"]
+      }
+    },
+    {
+      "year": 2009,
+      "title": "X-Men Origins: Wolverine",
+      "info": {
+        "rating": 6.7,
+        "plot": "A look at Wolverine's early life, in particular his time with the government squad Weapon and the impact it will have on his later years.",
+        "actors": ["Hugh Jackman", "Liev Schreiber", "Ryan Reynolds"]
+      }
+    },
+    {
+      "year": 2018,
+      "title": "Venom",
+      "info": {
+        "rating": 6,
+        "plot": "Investigative journalist Eddie Brock becomes the host of an alien symbiote called Venom, granting him superhuman abilities, and together they must stop an evil corporation from bringing more dangerous symbiotes to Earth.",
+        "actors": ["Tom Hardy", "Michelle Williams", "Riz Ahmed"]
+      }
+    },
+    {
+      "year": 2016,
+      "title": "Deadpool",
+      "info": {
+        "rating": 8,
+        "plot": "Wade Wilson, a former Special Forces operative turned mercenary, undergoes an experimental treatment to cure his cancer, which leaves him severely disfigured but with accelerated healing powers. Adopting the alter ego Deadpool, he hunts down the man responsible for his transformation while breaking the fourth wall and cracking jokes.",
+        "actors": ["Ryan Reynolds", "Morena Baccarin", "Ed Skrein"]
+      }
+    },
+    {
+      "year": 2022,
+      "title": "Morbius",
+      "info": {
+        "rating": 5,
+        "plot": "Biochemist Michael Morbius attempts to cure himself of a rare blood disease, but inadvertently infects himself with a form of vampirism instead, gaining superhuman abilities but also a thirst for blood.",
+        "actors": ["Jared Leto", "Matt Smith", "Adria Arjona"]
+      }
+    },
+    {
+      "year": 2023,
+      "title": "Kraven the Hunter",
+      "info": {
+        "rating": 8,
+        "plot": "Sergei Kravinoff, a skilled hunter with a mysterious past, faces a life-altering challenge that pushes him to become the legendary Kraven the Hunter. As he embraces his newfound identity and extraordinary abilities, Sergei must confront powerful enemies and his own inner demons, all while navigating the dangerous world of high-stakes hunting and urban warfare.",
+        "actors": ["Aaron Taylor-Johnson", "Ariana DeBose", "Russell Crowe"]
+      }
+    }
+  ]
+}
